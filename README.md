@@ -36,9 +36,6 @@ Created line charts and bar plots to visualize:
 ### 3. COVID-19 Impact
 By adding a timeline marker at March 2020, the project visually demonstrates the immediate correlation between the pandemic outbreak and the economic downturn.
 
-## 📈 Visualizations
-![Unemployment Trend](unemployment_plot.png) 
-
 ## 💡 Key Insights
 * **The Lockdown Peak:** Unemployment peaked dramatically in April and May 2020, coinciding with the strictest lockdown phases.
 * **Regional Resilience:** Certain states showed higher volatility, indicating a need for more localized economic support structures.
